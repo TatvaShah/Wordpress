@@ -26,16 +26,16 @@ define( 'DISALLOW_FILE_EDIT', true ); // Disable File Editor - Security > Settin
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'sql3361571' );
+define( 'DB_NAME', 'sql9361588' );
 
 /** MySQL database username */
-define( 'DB_USER', 'sql3361571' );
+define( 'DB_USER', 'sql9361588' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'JIPRSn6fVc' );
+define( 'DB_PASSWORD', 'LREBqztDRL' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'sql3.freemysqlhosting.net' );
+define( 'DB_HOST', 'sql9.freemysqlhosting.net' );
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
