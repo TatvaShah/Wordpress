@@ -29,10 +29,10 @@ define( 'DISALLOW_FILE_EDIT', true ); // Disable File Editor - Security > Settin
 define( 'DB_NAME', 'wordpressecomm' );
 
 /** MySQL database username */
-define( 'DB_USER', 'ishandb@localhost' );
+define( 'DB_USER', 'ishandb' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', 'ishandb1' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'db4free.net' );
@@ -86,6 +86,8 @@ $table_prefix = 'wp_';
  * @link https://wordpress.org/support/article/debugging-in-wordpress/
  */
 define( 'WP_DEBUG', false );
+
+define('WP_ALLOW_REPAIR', true);
 
 /* That's all, stop editing! Happy publishing. */
 
